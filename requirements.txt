@@ -1,0 +1,8 @@
+kick: vscode "kick.js"
+ban: vscode "ban.js"
+embed: vscode "embed.js"
+gif: vscode "gif.js"
+kamehameha: vscode ".js"
+sugerir: vscode "sugerir.js"
+musica: vscode "musica.js"
+
